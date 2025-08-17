@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42719128586",
+    "project_id": "rovelleapp",
+    "storage_bucket": "rovelleapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42719128586:android:e3eb10349cee9d42f083f3",
+        "android_client_info": {
+          "package_name": "com.example.untitled11123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT46uLvzMJ7D7CmSiRcOebAYn2g8wREHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
